@@ -1,10 +1,10 @@
 ## 👋 Hi! Eu sou Gustavo Sales
  
-📚 Estou me formando em Análise e desenvolvimento de sistemas
+- 📚 Estou me formando em Análise e desenvolvimento de sistemas
 
-📄 Técnico em Desenvolvimento de sistemas - IFPI
+- 📄 Técnico em Desenvolvimento de sistemas - IFPI
 
-🎯 Focando atualmente em aprender Javascript e seus frameworks
+- 🎯 Focando atualmente em aprender Javascript e seus frameworks
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sales&layout=compact&theme=tokyonight"/>
