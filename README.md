@@ -6,9 +6,13 @@
 
 - 🎯 Focando atualmente em aprender Javascript e seus frameworks
 
+<br>
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sales&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sales&layout=compact&theme=dark"/>
 </div>
+
+<br>
 
 ### Você também me encontra em:
 
