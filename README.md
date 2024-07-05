@@ -1,6 +1,6 @@
-## 👋 Hi! Eu sou Gustavo Sales
+## 👋 Olá! Eu sou Gustavo Sales
  
-- 📚 Estou me formando em Análise e desenvolvimento de sistemas
+- 📚 Sou formado em Análise e desenvolvimento de sistemas
 
 - 📄 Técnico em Desenvolvimento de sistemas - IFPI
 
