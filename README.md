@@ -4,7 +4,7 @@
 
 - 📄 Técnico em Desenvolvimento de sistemas - IFPI
 
-- 🎯 Focando atualmente em aprender Javascript e seus frameworks
+- 🎯 Focando atualmente em aprender Python e seus frameworks
 
 <br>
 
